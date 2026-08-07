@@ -91,6 +91,17 @@ requests httpx pycryptodome
 >CK格式：`Authorization` `&`
 
 
+### 🧴 薇诺娜小薇森林
+
+- `TomatoKing_5th.py` &emsp;环境变量：`QH_CK`
+
+>手机开启抓包软件，进入微信 -> 小程序(统一梦时代) -> 首页茄皇的家
+
+>搜索 `https://farmgames.ioutu.cn/api/web` 的任意请求头中的`wid` `openId`
+
+>CK格式：`wid#openId` `&`
+
+
 ### 🖥️ 网络唤醒(远程开机)
 
 - `WakeOnLAN.py` &emsp;环境变量：`WOL_MAC` `WOL_IP` `WOL_PORT`
